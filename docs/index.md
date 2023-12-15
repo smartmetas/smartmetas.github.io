@@ -14,7 +14,7 @@ hero:
       text: About platform
       link: /description
     - theme: alt
-      text: Ask demo
+      text: Request demo
       link: /contacts      
     - theme: alt
       text: Support us
@@ -22,7 +22,7 @@ hero:
 
 features:
   - title: Create data domains
-    details: Turning Visions into Applications,\ Swiftly and Seamlessly.
+    details: Turning Visions into Applications, Swiftly and Seamlessly.
   - title: Manage data
     details: Transforming Visions into Digital Realities.
   - title: Integrate your apps

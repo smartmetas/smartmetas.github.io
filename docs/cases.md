@@ -1,6 +1,6 @@
 # Use Cases
 
-Explore the versatile applications of our solutions at [Ваша компания]. From rapid prototyping to large-scale enterprise projects, our use cases showcase the adaptability and effectiveness of our offerings:
+Explore the versatile applications of our solutions. From rapid prototyping to large-scale enterprise projects, our use cases showcase the adaptability and effectiveness of our offerings:
 
 ## 1. Rapid Prototyping
    - *Scenario:* A marketing team needs a quick prototype for a new app feature.

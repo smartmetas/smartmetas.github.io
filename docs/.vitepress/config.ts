@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "SMARTMETAS.Docs",
   description: "Documentation resource",
+  head: [
+    ['link', { rel: "logo", sizes: "100x100", href: "/icons/logo.svg"}]
+  ],
   themeConfig: {
     logo: '/icons/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
