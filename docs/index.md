@@ -14,7 +14,7 @@ hero:
       text: About platform
       link: /description
     - theme: alt
-      text: Request demo
+      text: Request a demo
       link: /contacts      
     - theme: alt
       text: Support us

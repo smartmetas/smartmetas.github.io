@@ -2,10 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'en-US',
   title: "SMARTMETAS.Docs",
   description: "Documentation resource",
   head: [
-    ['link', { rel: "logo", sizes: "100x100", href: "/icons/logo.svg"}]
+    ['link', { rel: "logo", type: "image/png", sizes: "100x100", href: "/icons/logo.svg"}]
   ],
   themeConfig: {
     logo: '/icons/logo.svg',
