@@ -22,18 +22,18 @@ hero:
       link: /contacts
 
 features:
-  - title: Focus on Your business
+  - title: '🎯 Focus on Your business'
     details: 'Low-Code, High Efficiency: Where Time Finds Freedom.'
-  - title: Create data domains
+  - title: '🚀 Create data domains'
     details: Turning Visions into Applications, Swiftly and Seamlessly.
-  - title: Manage data
+  - title: '🗃️ Manage data'
     details: Transforming Visions into Digital Realities.
-  - title: Integrate your apps
+  - title: '⚙️ Integrate your apps'
     details: Unleash the Power of Possibility with API Integration
-
+    
 head:
   - - meta
     - name: keywords
-      content: make create application website web site low code low-code meta programming rest api nocode no code service
+      content: smartmetas smart metas make create application website web site low code low-code meta programming rest api nocode no code service
 ---
 

@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'en-US',
-  title: "SMARTMETAS.Docs",
+  title: "SMARTMETAS Docs",
   description: "Documentation resource",
   head: [
     ['link', { rel: "logo", type: "image/png", sizes: "100x100", href: "/icons/logo.svg"}]
